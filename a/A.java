@@ -1,7 +1,7 @@
 package revisao.a;
 
-public class A {
-	A(){
+public interface A {
+	void liga();
 
-	}
+	Object ler();
 }
